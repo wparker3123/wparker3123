@@ -1,7 +1,7 @@
 <h2 align="center">Hello World 👋! I'm William</h2>
 
 ###
-
+<p align="center">Software Developer | Always striving to code better than my past self.</p>
 <p align="center">~ Most likely busy debugging or creating new bugs.</p>
 
 ###
