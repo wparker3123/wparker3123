@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" height="225" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXh5cjhhZHExYjNsOG91bHhwN2NkZmJhbDlyaDhxanRoMGRxZGtqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I9Tic9ReSCUN2dDdsL/giphy.gif"  />
+<img align="left" height="225" src="re-zero-subaru.gif"  />
 
 ###
 
