@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" height="225" src="re-zero-subaru.gif"  />
+<img align="left" height="225" src="readme-rezero-gif.gif"  />
 
 ###
 
