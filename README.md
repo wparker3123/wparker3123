@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/william-parker-b29a7a165/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=191724&logoColor=f4ae67&labelColor=&style=flat" height="45" alt="linkedin logo"  />
   </a>
 </div>
 
